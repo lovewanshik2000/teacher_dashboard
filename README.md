@@ -34,8 +34,8 @@ Follow these instructions to run the project locally.
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/teacher-portal.git
-cd teacher-portal
+git clone https://github.com/lovewanshik2000/teacher_dashboard.git
+cd teacher_dashboard
 
 # Step 2: Create a virtual environment
 python -m venv venv
