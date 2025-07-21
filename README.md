@@ -76,6 +76,15 @@ password: Password@1
 
 ## 📸 Screenshots
 
-| Signup Page | Login Page | Forgot Password | Dashboard |
-|-------------|------------|-----------|
-| ![Signup](screenshots/signup.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/forgot_password.png) | ![Dashboard](screenshots/dashboard.png) |
+### Signup Page  
+![Signup](screenshots/signup.png)
+
+### Login Page  
+![Login](screenshots/login.png)
+
+### Forgot Password Page  
+![Forgot Password](screenshots/forgot_password.png)
+
+### Teacher Dashboard Page  
+![Dashboard](screenshots/dashboard.png)
+
