@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Django specific
+*.log
+*.pot
+*.pyc
+# db.sqlite3
+# db.sqlite3-journal
+media/
+staticfiles/
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Migrations (optional: only if you want to regenerate every time)
+*/migrations/__pycache__/
+# */migrations/*.py[cod]
+# */migrations/*.py
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Pycharm/JetBrains IDE
+.idea/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.coverage
+.cache
+
+# MyPy, Pytest, Black
+.mypy_cache/
+pytest_cache/
+.dmypy.json
+.pyre/
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
