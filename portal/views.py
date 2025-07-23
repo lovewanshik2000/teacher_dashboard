@@ -119,7 +119,7 @@ def add_student(request):
             )
 
             if not created:
-                student.marks = marks
+                student.marks += marks
                 student.updated_by = teacher
                 student.save()
 
